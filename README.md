@@ -1,2 +1,21 @@
 # The-Linux-Jounal
-A handbook about Linux, written by me
+
+A book written targetting Noob Linux Users to make them comfortable with Linux Ecosystem and clear their basic Linux Fundmentals
+
+## What Will You Get From This Book?
+   - Build you base strong
+   - Learn the Linux fundamentals
+   - Easy to understand language
+   - Simply Explained
+   - Written in Precised way
+   - Go noob to intermediate
+
+## Who This Book is for?
+   - Software Developers
+   - App Developers
+   - Web Developers
+   - Students
+   - IT Proffesionals
+ 
+ # Grab a Copy Now
+ ![Download](https://drive.google.com/uc?export=download&id=16mlLPwO5VovuQvbRkYgpg9ztYBurpxx8)
