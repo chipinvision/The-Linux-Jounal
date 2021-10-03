@@ -17,5 +17,4 @@ A book written targetting Noob Linux Users to make them comfortable with Linux E
    - Students
    - IT Proffesionals
  
- # Grab a Copy Now
- ![Download](https://drive.google.com/uc?export=download&id=16mlLPwO5VovuQvbRkYgpg9ztYBurpxx8)
+ 
